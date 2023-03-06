@@ -1,0 +1,18 @@
+
+ body{
+    background-image: url('./5876.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  
+}
+
+.mainbox{
+    margin: 50px;
+    text-align: center;
+}
+.minput{
+    margin-top: 1%;
+    margin-left: 37%;
+}
